@@ -1,0 +1,75 @@
+//DELETE FROM `ticketer`.`foretag` WHERE `foretag`.`id` = 2 LIMIT 1
+//INSERT INTO `ticketer`.`foretag` (`id`, `namn`, `adress`, `postnumer`, `postort`, `kontaktperson`, `telefon_prim`, `telefon_seco`, `mail`, `orgnr`) VALUES (NULL, 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c', 'c');
+
+INSERT INTO db.table () VALUES ()
+---- Avkladde Arbeten
+
+Nejdefelt's
+12/1-10
+1 timme, 1 resa
+Uppgraderade lottas dator till SP3, kontrollerade Annelies dators uppkopling. Verkade fungera bra
+
+Kommentarer:
+SPCS Visade tendenser på att ha kapacitetsbesvär pga stor databas.
+
+---
+
+Eriksbergs Glasmästeri
+14/1-10
+3 timmar, 1 resa
+Installerade ny dator, koplade mot nätverk, la upp delade mappar,
+flyttade inställningar från gammal dator. Försökte hitta omkopplare från LPT-port
+till USB, utan att lyckas (kollade Biltema och Daekdata i hallunda centrum)
+kontaktade GPD-programmets suport som hjälpte till med installationen av
+lokala komponenter till programmet.
+
+Flyttade även den gamla datorn tillsammans med specialskrivaren för säkerhetsetiketter
+Och installerade den på övervåningen.
+
+Kommentarer:
+Samtalde med Lasse som påstod att service från oss tar lång tid.
+
+---
+
+Nordic eq.
+14/1-10
+1.5 timmar 1 resa
+Tittade till på routern och såg att den hade hundratals aktiva sessioner. En kralligare router kanske fixar deras nätverksproblem
+tittade på en netbook, den verkade ha hd problem. skruvade ur hårddisken och tog med netbooken för ominstallation.
+
+Kommentarer:
+Beställ ny lyxig router, netbook hd och nån sorts koppling mellan mini-hårddisk och usb-kontakt.
+Parkeringsavgift: ca 75kr Trängselavgift: 20kr
+---
+
+Länna Möbler / Tempurbutiken
+15/1-10
+4 timmar 1 resa
+packade upp och koplade in ny skrivare till dator i installerade den på virutella skrivbordet.
+konfigurerade så det finns möjlighet att skriva ut från båda facken enkelt.
+flyttade HP1320 (som stod i kassan) till kontoret och installerade den där och fick den att fungera med virtuella skrivbordet där.
+installerade kvittoskrivare (vilket visade sig vara onödig)
+ecs försökte få kortskrivaren att fungera med virutella skrivbordet, men misslyckades.
+flyttade trådlöst tangentbord från kontor till kassa.
+
+Kommentarer:
+pga att esc inte svarade så gick tid åt i onödan
+ecs ska installera kvittoskrivaren och fixa så kontantkassan öppnas automatiskt under veckan som kommer
+Parkeringsavgift: ca 100kr Trängselavgift 20kr
+
+--- Arbeten på G
+
+    Webbdesign: 
+        BRF Arken
+        Möte på tisdag kl 18:30
+        Ska visa upp hur det ser ut hittills och visa upp admingränsnittet.
+        Arbetet med sidan är i stort sett klar, ska lägga upp artiklar till alla meny alternativ.
+        
+        Södetörns Skog och Trädgård
+        Har fått typsnittet nu, ska fixa loggan. Keyo vill att sidan läggs upp utan webshop när loggan är på plats.
+
+    Verkstaden:
+        * Nordic eq.s netbook
+        * Oves netbook med tvkortet
+        * HP-skrivaren 
+

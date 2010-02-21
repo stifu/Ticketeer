@@ -1,0 +1,161 @@
+/* CSS */
+body, table, td, tr, div {padding: 0px; margin: 0px;}
+
+body
+{
+	font-family: Verdana;
+	font-size: 11px;
+	color: #999999;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+a
+{
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+table
+{
+	letter-spacing: 1px;
+	font-size: 12px;
+	margin: auto;
+	color: #000;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+img
+{
+	border:0;
+}
+
+.loginbox
+{
+	margin: auto;
+	border: 1px solid #91a771;
+	width: 300px;
+	height: 200px;
+	background: url(../gfd/bg.png);
+	text-align: center;
+}
+
+#menuoption
+{
+	text-decoration: none;
+	border: none;
+}
+
+#smallank
+{
+	font-weight: normal;
+	
+}
+
+#upperwrap
+{
+	width: 300px;
+	height: 150px;
+	margin: auto;
+	border-bottom: 1px solid #91a771;
+}
+
+#lowerwrap
+{
+	width: 400px;
+	height: 147px;
+	padding: 5px;
+	margin: auto;
+	margin-top: 40px;
+}
+
+#right
+{
+	float: right;
+}
+
+#left
+{
+	float: left;
+}
+
+#mainmenu
+{
+	border: 1px solid #91a771;
+	width: 500px;
+	height: 300px;
+	margin: auto;
+}
+
+#mainmenuw
+{
+	border-right: 1px solid #fff;
+	border-top: 1px solid #fff;
+	width: 499px;
+	height: 299px;
+	background-color: #d6e3c4;
+	margin: auto;
+}
+
+#centerlogo
+{
+	width: 300px;
+	margin: auto;	
+}
+
+#txt
+{
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #536637;
+}
+
+#ecks
+{
+	color: red;
+	font-weight: bold;
+}
+
+#inputbox
+{
+	font-size: 30px;
+	border: 1px solid #91a771;
+}
+
+#sendbutt
+{
+	border: 1px solid #91a771;
+	background-color: #6f8f41;
+	color: #fff;
+	font-size: 15px;
+}
+
+#emptytable
+{
+	border: 0;
+	padding: 0 2px 0 2px;
+}
+
+#listtable
+{
+	border: 1px solid #91a771;
+	padding: 0 2px 0 2px;
+}
+
+#field
+{
+	border: 1px solid #91a771;
+}
+
+#companytable
+{
+	border: 1px solid #91a771;
+	background-color: #d6e3c4;
+	margin: auto;
+	width: 1020px;
+}
